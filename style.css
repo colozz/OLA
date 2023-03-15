@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: rgb(201, 243, 12);
+    text-align: right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h3 {
+    color: rgb(255, 0, 149);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+p {
+    color:brown;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+    color: rgb(243, 234, 235);
+    background-color: rgb(226, 15, 15);
+    margin-left: 50px;
+    margin-right: 50px;
+    width: ;
+    height: 40px;
+    border: 5px solid black;
+    cursor: pointer;
+}
+body {
+    background-color: rgb(173, 236, 236);
+} 
+img {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-right:;
+}
+ul {
+    
+}
+
